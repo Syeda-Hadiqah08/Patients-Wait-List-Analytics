@@ -1,7 +1,7 @@
 # **🏥 Patients Wait List Analytics**
 
 ## **📖 Project Overview**
-**Patients Wait List Analytics** is an interactive Power BI project designed to analyze and visualize historical data of hospital patients waitlist.  
+**Patients Wait List Analytics** is an interactive and dynamic dashboard designed to analyze and visualize historical data of hospital patients waitlist using Microsoft Power BI Desktop.  
 The project aims to uncover patterns, bottlenecks, and key performance indicators (KPIs) that affect patient waiting times — empowering healthcare organizations to enhance efficiency, resource allocation, and service delivery.
 
 ---
@@ -47,7 +47,7 @@ The project aims to uncover patterns, bottlenecks, and key performance indicator
 ## **📊 Dashboards Summary**
 
 ### 📈 **Page 1 – Patients Analytics**
-![Patients Analytics Page](images/Patients_Analytics_Page.png)
+![Patients Analytics Page](https://github.com/Syeda-Hadiqah08/Patients-Wait-List-Analytics/blob/main/Patients_Analytics_Page.png)
 
 **Summary:**  
 Offers a high-level overview dashboard of patients waitlist trends from 2018 to 2021. It provides an interactive analysis of patient volumes, waiting durations, and specialty comparisons.
@@ -65,7 +65,7 @@ Offers a high-level overview dashboard of patients waitlist trends from 2018 to 
 ---
 
 ### 🔬 **Page 2 – Granular Analysis**
-![Granular Analysis Page](images/Granular_Analysis_Page.png)
+![Granular Analysis Page](https://github.com/Syeda-Hadiqah08/Patients-Wait-List-Analytics/blob/main/Granular_Analysis_Page.png)
 
 **Summary:**  
 Provides an in-depth view of specialty and demographic-level insights. It allows users to drill down into specific departments or patient groups to evaluate performance variations in detail.
@@ -90,14 +90,20 @@ Provides an in-depth view of specialty and demographic-level insights. It allows
 
 ---
 
-## **👩‍💻 Author Information**
+## **📞 Contact Information**
 
-**👤 Name:** Syeda Hadiqah Fatima    
+**👤 Author:** Syeda Hadiqah Fatima    
 **📧 Email:** hadiqah.fatima02@gmail.com  
 **🔗 LinkedIn:** [linkedin.com/in/s-hadiqah-f](https://www.linkedin.com/in/s-hadiqah-f)  
 **📍 Location:** Karachi, Pakistan  
 
 ---
 
+## **📄 License**
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Syeda-Hadiqah08/Patients-Wait-List-Analytics/blob/main/LICENSE) file for details.  
+
+---  
+
 ⭐ **If this project helped you, please give it a star!** ⭐  
-> 💬 *"Turning data into decisions!"*
+> 💬 ***"Turning data into decisions — one project at a time!"***
